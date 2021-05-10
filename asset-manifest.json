@@ -1,20 +1,30 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.197b5a4f.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.a2958573.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.a2958573.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.4bd42b99.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.4bd42b99.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.f4ca8592.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.f4ca8592.js.map",
-    "static/js/2.f2955d10.chunk.js": "/React-Portfolio/static/js/2.f2955d10.chunk.js",
-    "static/js/2.f2955d10.chunk.js.map": "/React-Portfolio/static/js/2.f2955d10.chunk.js.map",
+    "static/js/2.2b0bd1a3.chunk.js": "/React-Portfolio/static/js/2.2b0bd1a3.chunk.js",
+    "static/js/2.2b0bd1a3.chunk.js.map": "/React-Portfolio/static/js/2.2b0bd1a3.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/main.197b5a4f.chunk.css.map": "/React-Portfolio/static/css/main.197b5a4f.chunk.css.map",
-    "static/js/2.f2955d10.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.f2955d10.chunk.js.LICENSE.txt"
+    "static/js/2.2b0bd1a3.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.2b0bd1a3.chunk.js.LICENSE.txt",
+    "static/media/D.22934fc0.png": "/React-Portfolio/static/media/D.22934fc0.png",
+    "static/media/DHay.786a0f00.jpg": "/React-Portfolio/static/media/DHay.786a0f00.jpg",
+    "static/media/Darius-Hay.4289d4a1.pdf": "/React-Portfolio/static/media/Darius-Hay.4289d4a1.pdf",
+    "static/media/Weather-Dashboard.8663d6e3.png": "/React-Portfolio/static/media/Weather-Dashboard.8663d6e3.png",
+    "static/media/budget.376806ad.png": "/React-Portfolio/static/media/budget.376806ad.png",
+    "static/media/home.b32ab130.png": "/React-Portfolio/static/media/home.b32ab130.png",
+    "static/media/medstocks.c238a2f3.png": "/React-Portfolio/static/media/medstocks.c238a2f3.png",
+    "static/media/news.ece9688e.png": "/React-Portfolio/static/media/news.ece9688e.png",
+    "static/media/techblog.a0184c92.png": "/React-Portfolio/static/media/techblog.a0184c92.png",
+    "static/media/walking-down.2a53349d.jpg": "/React-Portfolio/static/media/walking-down.2a53349d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f4ca8592.js",
-    "static/js/2.f2955d10.chunk.js",
+    "static/js/2.2b0bd1a3.chunk.js",
     "static/css/main.197b5a4f.chunk.css",
-    "static/js/main.a2958573.chunk.js"
+    "static/js/main.4bd42b99.chunk.js"
   ]
 }
