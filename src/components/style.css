@@ -1,0 +1,53 @@
+.container {
+    float: left;
+}
+h4 {
+    margin-left: 30%;
+}
+#skills {
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+}
+#more {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+ul {
+    background-color: blanchedalmond, 0.3;
+}
+#section {
+    background-color: rgb(128, 0, 0, 0.8);
+    border-color: black;
+    border-top: 10px solid rgb(0, 0, 0, 0.6);
+    border-bottom: 0.5px solid white;
+}
+
+#about {
+    background-color: rgb(128, 0, 0, 0.8);
+    border-bottom: 0.5px solid white;
+    border-top: 0.5px solid white;
+}
+#contact {
+    background-color: rgb(128, 0, 0, 0.8);
+    border-bottom: 0.5px solid white;
+    border-top: 0.5px solid white;
+    height: 450px;
+}
+#abtContent {
+    margin: 10%;
+    background-color: white;
+    border: 10px solid rgb(0, 0, 0, 0.8);
+}
+
+#main-pic {
+    margin: 15px;
+    /* align-items: center;  */
+    height: 200px;
+    width: 200px;
+    border-radius: 90%;
+    border: 1px solid black;
+}
+
+#appPic {
+    border: 1px solid black;
+}
