@@ -33,10 +33,10 @@ export default function Home() {
                                     <li> HTML</li>
                                     <li> CSS</li>
                                     <li> JavaScript</li>
-                                    <li> JQuery</li>
+                                    <li> jQuery</li>
                                     <li> Bootstrap</li>
-                                    <li> Materialize</li>
-                                    <li> Foundation</li>
+                                    <li> Materialize CSS</li>
+                                    <li> Foundation CSS</li>
 
 
                                 </ul>
@@ -45,9 +45,9 @@ export default function Home() {
                                 <ul style={{ color: 'white' }}>
                                     <li> React.js</li>
                                     <li> Handlebars/Templating</li>
-                                    <li> JQuery AJAX</li>
+                                    <li> jQuery AJAX</li>
                                     <li> Axios</li>
-                                    <li> Express</li>
+                                    <li> Express.js</li>
                                     <li> Webpack</li>
                                     <li> Test Driven Development</li>
 
@@ -57,7 +57,7 @@ export default function Home() {
                                 <ul style={{ color: 'white' }}>
                                     <li> Node.js</li>
                                     <li> MySQL</li>
-                                    <li> Sequqlize</li>
+                                    <li> Sequelize.js</li>
                                     <li> MongoDB</li>
                                     <li> Mongoose</li>
                                     <li> GIT</li>

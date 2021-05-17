@@ -1,7 +1,7 @@
 import React from "react";
 import { Spring, animated } from "react-spring";
 import { Link, useLocation } from "react-router-dom";
-import Res from "../pics/Darius-Hay.pdf"
+import Res from "../pics/DariusHay_Resume.pdf"
 import "./style.css";
 
 export default function Nav() {
